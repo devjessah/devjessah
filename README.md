@@ -3,7 +3,7 @@
 
 ## A bit about me 🙋‍♂️
 
-- 🔭 I’m currently studying **Com Sci in [OSSU](https://github.com/ossu/computer-science)**
+- 🔭 I’m currently studying **Com Sci in [OSSU](https://github.com/ossu/computer-science)** & **Harvard's [CS50](https://www.edx.org/cs50)**
 
 - 🌱 I’m taking babysteps in learning **JavaScript & Python**
 
