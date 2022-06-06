@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Com Sci @ [OSSU](https://github.com/ossu/computer-science)** & doing some **Harvard's [CS50](https://www.edx.org/cs50) courses as well**
 
-- 🌱 I’m taking babysteps in learning **JavaScript & Python**
+- 🌱 Right now, I’m taking babysteps in learning **JavaScript & Python**
 
 - 🚀 I'm inclined to especialize **Web 3.0**, **Solidity** and **Blockchain tech** in the near future
 
