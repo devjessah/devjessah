@@ -3,7 +3,7 @@
 
 ## A bit about me 🙋‍♂️
 
-- 🔭 I’m currently doing **Com Sci Curriculum in [OSSU](https://github.com/ossu/computer-science)**
+- 🔭 I’m currently studying **Com Sci in [OSSU](https://github.com/ossu/computer-science)**
 
 - 🌱 I’m taking babysteps in learning **JavaScript & Python**
 
