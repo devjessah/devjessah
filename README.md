@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jessah Mae</h1>
+<h1 align="center">Hi there 👋, I'm Jessah Mae</h1>
 <h2 align="center">A passionate frontend developer from Philippines</h2>
 
 - 🔭 I’m currently doing **OSSU Com Sci Curriculum**
