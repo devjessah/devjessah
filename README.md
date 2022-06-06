@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jessah Mae <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 <h2 align="center">An aspiring blockchain developer from Philippines</h2> 
 
-## A bit about me 🙋‍♂️
+## A bit about me 🙋‍♀️
 
 - 🔭 I’m currently studying **Com Sci @ [OSSU](https://github.com/ossu/computer-science)** & doing some courses @ **Harvard's [CS50](https://www.edx.org/cs50)** as well
 
