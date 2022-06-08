@@ -7,7 +7,7 @@
 
 - 🌱 Right now, I’m learning **JavaScript & Python**
 
-- 🚀 In the near future, I'm inclined to especialize **Blockchain tech** like **Web 3.0** and **Solidity**
+- 🚀 In the near future, I'm inclined to especialize **Blockchain tech** like **Web 3.0**, **EVM** and **Solidity**
 
 - 💖 I love using **linux** and passionately support projects that are **"free and open-source"**
 
