@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Computer Science** while doing some **Harvard [CS50](https://www.edx.org/cs50)** side courses as well
 
-- 🌱 Right now, I’m taking baby steps in learning **JavaScript & Python**
+- 🌱 Right now, I’m learning **JavaScript & Python**
 
 - 🚀 In the near future, I'm inclined to especialize **Blockchain-tech** like **Web 3.0**, **EVM** and **Solidity**
 
