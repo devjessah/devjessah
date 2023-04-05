@@ -3,11 +3,9 @@
 
 ## A bit about me 🙋‍♀️
 
-- 🔭 I’m currently studying **Computer Science** while doing some **Harvard [CS50](https://www.edx.org/cs50)** side courses as well
+- 🔭 I’m currently studying **Computer Science** while doing some **Harvard [CS50](https://www.edx.org/cs50)** courses on the side.
 
-- 🌱 Right now, I’m learning **JavaScript & Python**
-
-- 🚀 In the near future, I'm inclined to especialize **Blockchain-tech** like **Web 3.0**, **EVM** and **Solidity**
+- 🚀 In the near future, I'm inclined to especialize **Blockchain-tech** like **Web 3.0**, **EVM**,**Solidity** and anything useful in the **FinTech Industry**
 
 - 💖 I enjoy using **linux** and passionately support projects that are **"free and open-source"**
 
