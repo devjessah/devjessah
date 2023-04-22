@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Computer Science** while doing some **Harvard [CS50](https://www.edx.org/cs50)** courses on the side.
 
-- 🚀 Deeply inclined towards **Blockchain-tech** like **Web 3.0**, **EVM**, **Solidity** and anything related in the **FinTech Industry**
+- 🚀 Deeply inclined towards **Blockchain-tech** and the **FinTech Industry** 
 
 - 💖 I also enjoy using **linux** and passionately support projects that are **"free and open-source"**
 
