@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jessah Mae <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
+<h1 align="center">Hi, I'm Jessah  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 <h2 align="center">An aspiring blockchain developer from Philippines</h2> 
 
 ## A bit about me 🙋‍♀️
